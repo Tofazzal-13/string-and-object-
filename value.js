@@ -11,3 +11,4 @@ person.salary = 30000;
 person["age"] = 29;
 person["fav places"] = ["maldivs", "pataya", "london"]
 console.log(person);
+
